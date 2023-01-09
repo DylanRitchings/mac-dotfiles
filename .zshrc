@@ -156,6 +156,8 @@ DISABLE_MAGIC_FUNCTIONS=true
 # neofetch
 export PATH="/opt/homebrew/opt/openjdk/bin:$PATH"
 
+# Work config
+[ -f $HOME/.workrc ] && source $HOME/.workrc
 
 #------------Fig post block, Keep at the bottom of this file------------
 
