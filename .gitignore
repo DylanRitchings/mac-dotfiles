@@ -132,5 +132,3 @@ Footer
 .bash_history
 .ssh/
 .git/
-
-.config/gh/hosts.yml
