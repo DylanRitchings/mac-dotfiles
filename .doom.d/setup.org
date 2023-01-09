@@ -1,7 +1,5 @@
 * Basic and Navigation Bindings
-#+BEGIN_SRC emacs-lisp
 
-#+END_SRC
 ** Movement
 #+BEGIN_SRC emacs-lisp
 (remove-hook 'doom-first-input-hook #'evil-snipe-mode)
