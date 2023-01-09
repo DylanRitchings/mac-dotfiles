@@ -3,6 +3,8 @@
 ## Install instructions
 ```bash
 git --git-dir="$HOME/.dotfiles" --work-tree="$HOME" init
+cd $HOME/.dotfiles
+
 export GIT_DIR="$HOME/.dotfiles"
 git config status.showUntrackedFiles no
 
