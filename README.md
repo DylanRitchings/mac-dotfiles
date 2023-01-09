@@ -1,4 +1,4 @@
-## Installation instructions
+## Installation
 ```bash
 git --git-dir="$HOME/.dotfiles" --work-tree="$HOME" init
 export GIT_DIR="$HOME/.dotfiles"
