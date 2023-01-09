@@ -1,0 +1,10 @@
+[user]
+	name = dritchings
+	email = dritchings@qa.com
+
+[credential "https://git-codecommit.eu-west-2.amazonaws.com"]
+    helper = !aws codecommit credential-helper --profile=CODECOMMIT $@
+    usehttppath = true
+
+[credential "https://github.com"]
+	helper = store
