@@ -1,9 +1,9 @@
 ## Installation instructions
 ```bash
 git --git-dir="$HOME/.dotfiles" --work-tree="$HOME" init
-cd $HOME/.dotfiles
-
 export GIT_DIR="$HOME/.dotfiles"
+
+cd $HOME/.dotfiles
 git config status.showUntrackedFiles no
 
 git remote add origin https://github.com/DylanRitchings/dotfiles.git
