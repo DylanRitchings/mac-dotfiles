@@ -1,4 +1,4 @@
-## Install instructions
+## Installation instructions
 ```bash
 git --git-dir="$HOME/.dotfiles" --work-tree="$HOME" init
 cd $HOME/.dotfiles
