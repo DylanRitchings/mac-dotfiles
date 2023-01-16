@@ -6,7 +6,7 @@ export GIT_DIR="$HOME/.dotfiles"
 cd $HOME/.dotfiles
 git config status.showUntrackedFiles no
 
-git remote add origin https://github.com/DylanRitchings/dotfiles.git
+git remote add origin https://github.com/DylanRitchings/mac-dotfiles.git
 git fetch
 
 # WARNING: Overwrites files
